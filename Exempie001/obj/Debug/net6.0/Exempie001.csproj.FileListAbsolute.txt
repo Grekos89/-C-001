@@ -1,0 +1,15 @@
+D:\картинки учёба\Язык C#\Exempie001\bin\Debug\net6.0\Exempie001.exe
+D:\картинки учёба\Язык C#\Exempie001\bin\Debug\net6.0\Exempie001.deps.json
+D:\картинки учёба\Язык C#\Exempie001\bin\Debug\net6.0\Exempie001.runtimeconfig.json
+D:\картинки учёба\Язык C#\Exempie001\bin\Debug\net6.0\Exempie001.dll
+D:\картинки учёба\Язык C#\Exempie001\bin\Debug\net6.0\Exempie001.pdb
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\Exempie001.csproj.AssemblyReference.cache
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\Exempie001.GeneratedMSBuildEditorConfig.editorconfig
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\Exempie001.AssemblyInfoInputs.cache
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\Exempie001.AssemblyInfo.cs
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\Exempie001.csproj.CoreCompileInputs.cache
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\Exempie001.dll
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\refint\Exempie001.dll
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\Exempie001.pdb
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\Exempie001.genruntimeconfig.cache
+D:\картинки учёба\Язык C#\Exempie001\obj\Debug\net6.0\ref\Exempie001.dll
